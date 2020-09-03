@@ -88,6 +88,9 @@ const styles = StyleSheet.create({
 
 App2.js
 //ตัวอย่างการใช้ Share สำหรับ Facebook
+
+
+
 // This is an Example to Share Post on Facebook from React Native App
 import React, { Component } from 'react';
 import { View, StyleSheet, Text, Linking, TextInput, Button } from 'react-native';
