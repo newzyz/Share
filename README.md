@@ -87,7 +87,8 @@ const styles = StyleSheet.create({
 
 
 App2.js
-//ตัวอย่างการใช้ Share สำหรับ Facebook
+
+ตัวอย่างการใช้ Share สำหรับ Facebook
 
 
 
