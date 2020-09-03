@@ -108,7 +108,10 @@ export default class App extends Component {
       FacebookShareMessage: 'Hello Guys, This is a testing of facebook share example',
     };
   }
-  //ทำการตรวจเช็ค URL ที่จะไป และทำการลิ้งไปยัง URL นั้น
+  
+  ทำการตรวจเช็ค URL ที่จะไป และทำการลิ้งไปยัง URL นั้น
+  
+  
   postOnFacebook=() => {
     let FacebookShareURL = this.state.FacebookShareURL;
     let FacebookShareMessage = this.state.FacebookShareMessage;
