@@ -2,7 +2,7 @@
 วิธีการติดตั้ง Share 
 npm i react-native-share --save ให้กับโปรเจค
 
-/This is an example code to Share Text Message using Share API// 
+//This is an example code to Share Text Message using Share API// 
 import React, { Component } from 'react';
 //import react in our code.
 
@@ -103,7 +103,9 @@ export default class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      //กำหนดค่าตัวแปรเก็บไว้ใน state โดยจะมี URL และ Message ที่จะทำการโพส
+    
+    กำหนดค่าตัวแปรเก็บไว้ใน state โดยจะมี URL และ Message ที่จะทำการโพส
+    
       FacebookShareURL: 'https://aboutreact.com',
       FacebookShareMessage: 'Hello Guys, This is a testing of facebook share example',
     };
@@ -133,7 +135,9 @@ export default class App extends Component {
             facebookParameters = facebookParameters+"&quote="+encodeURI(this.state.FacebookShareMessage);
         }
     }
-     //ทำการลิ้งไปยัง URL ที่ไว้สำหรับการ share ของ facebook
+    
+ ทำการลิ้งไปยัง URL ที่ไว้สำหรับการ share ของ facebook
+ 
     let url = 'https://www.facebook.com/sharer/sharer.php'+facebookParameters;
     Linking.openURL(url).then((data) => {
       alert('Facebook Opened');
@@ -143,7 +147,10 @@ export default class App extends Component {
   }
   render() {
     return (
-    //รับค่า content ต่าง ๆ เพื่อนำสิ่งเหล่านั้นไปแชร์ใน facebook
+    
+    รับค่า content ต่าง ๆ เพื่อนำสิ่งเหล่านั้นไปแชร์ใน facebook
+    
+    
       <View style={styles.container}>
         <Text style={{textAlign: 'center', fontSize: 20, paddingVertical: 30}}>
           Example to share on Facebook from React Native App
