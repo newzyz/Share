@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T14:24:27.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="JgI_GA7fEn0jtPDYx6EF" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T17:14:21.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_PqhfkrHOi8YdhQNO2Zx" version="15.3.8" type="github">
   <diagram id="p0Sswh1wCOy0EvHFWE1C" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UP2Xns26A9CMsstVCoSg-2" value="&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;th sarabunpsk&amp;#34; , sans-serif&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Product Price Comparison System using Web Scraping from E-commerce Websites&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-125;spacing=5;spacingBottom=500;" vertex="1" parent="1">
+        <mxCell id="UP2Xns26A9CMsstVCoSg-2" value="&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;th sarabunpsk&amp;#34; , sans-serif&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Product Price Comparison System using Web Scraping from E-commerce Websites&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-125;spacing=5;spacingBottom=500;" parent="1" vertex="1">
           <mxGeometry x="140" y="10" width="530" height="680" as="geometry" />
         </mxCell>
         <mxCell id="cj-hPwlbrHodN3N8FsVO-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;ผู้ใช้งานทั่วไป&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
@@ -67,10 +67,19 @@
         <mxCell id="Q_QUAt-K6iGTTHn7CNDI-64" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;E-Commerce websites&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="270" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UP2Xns26A9CMsstVCoSg-7" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=340;exitDy=57;exitPerimeter=0;" edge="1" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="Q_QUAt-K6iGTTHn7CNDI-64">
+        <mxCell id="UP2Xns26A9CMsstVCoSg-7" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=340;exitDy=57;exitPerimeter=0;" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="Q_QUAt-K6iGTTHn7CNDI-64" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="350" as="sourcePoint" />
             <mxPoint x="720" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5msshO2W7xCowk5VUka--1" value="ผู้ดูแลระบบ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5msshO2W7xCowk5VUka--2" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=340;exitDy=57;exitPerimeter=0;" edge="1" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="5msshO2W7xCowk5VUka--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="615" as="sourcePoint" />
+            <mxPoint x="670" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
