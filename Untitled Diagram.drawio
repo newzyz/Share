@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T18:47:42.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oXqhq_W7-aqqZuFvN0N4" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T17:14:20.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="geNB30sK7ZgCqLnN2V20" version="15.5.6" type="github">
   <diagram id="p0Sswh1wCOy0EvHFWE1C" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UP2Xns26A9CMsstVCoSg-2" value="&lt;span style=&quot;line-height: 107% ; font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Product Price Comparison System using Web Scraping from Popular E-commerce Platforms&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=-125;spacing=5;spacingBottom=500;" parent="1" vertex="1">
-          <mxGeometry x="140" y="10" width="480" height="680" as="geometry" />
+          <mxGeometry x="170" y="10" width="440" height="650" as="geometry" />
         </mxCell>
         <mxCell id="cj-hPwlbrHodN3N8FsVO-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;ผู้ใช้งานทั่วไป&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cj-hPwlbrHodN3N8FsVO-3" value="&lt;font style=&quot;font-size: 18px ; font-weight: normal&quot;&gt;ระบบแสดงรายการสินค้า&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="110" width="330" height="90" as="geometry" />
+          <mxGeometry x="220" y="110" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Q_QUAt-K6iGTTHn7CNDI-12" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0;entryY=0;entryDx=0;entryDy=33;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cj-hPwlbrHodN3N8FsVO-1" target="cj-hPwlbrHodN3N8FsVO-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -19,17 +19,8 @@
             <mxPoint x="410" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q_QUAt-K6iGTTHn7CNDI-13" value="&lt;font style=&quot;font-size: 18px ; font-weight: normal&quot;&gt;ระบบคัดกรองสินค้า&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="220" width="330" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="Q_QUAt-K6iGTTHn7CNDI-14" value="&lt;font style=&quot;font-size: 18px ; font-weight: normal&quot;&gt;ระบบแสดงข้อมูล&lt;br&gt;โดยรวมสินค้าในรูปแบบ BI&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="340" width="330" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Q_QUAt-K6iGTTHn7CNDI-15" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=52;exitPerimeter=0;" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-13" target="cj-hPwlbrHodN3N8FsVO-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="240" as="sourcePoint" />
-            <mxPoint x="200" y="190" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="215" y="285" width="335" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Q_QUAt-K6iGTTHn7CNDI-17" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=57;exitPerimeter=0;" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-14" target="cj-hPwlbrHodN3N8FsVO-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q_QUAt-K6iGTTHn7CNDI-34" value="&lt;font style=&quot;font-size: 18px ; font-weight: normal&quot;&gt;ระบบรวบรวมข้อมูลสินค้า(Web Scraping)&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="460" width="330" height="100" as="geometry" />
+          <mxGeometry x="220" y="440" width="330" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Q_QUAt-K6iGTTHn7CNDI-64" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;E-Commerce websites&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="430" width="160" height="70" as="geometry" />
@@ -58,19 +49,19 @@
             <mxPoint x="670" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1SSKYQQAym1hsjjxCr9-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;Apache Airflow&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e1SSKYQQAym1hsjjxCr9-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;Apache Airflow&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="340" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e1SSKYQQAym1hsjjxCr9-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=330;exitDy=57;exitPerimeter=0;" edge="1" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="e1SSKYQQAym1hsjjxCr9-1">
+        <mxCell id="e1SSKYQQAym1hsjjxCr9-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=330;exitDy=57;exitPerimeter=0;" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="e1SSKYQQAym1hsjjxCr9-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1SSKYQQAym1hsjjxCr9-5" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;Hadoop" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="e1SSKYQQAym1hsjjxCr9-5" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;Hadoop" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="640" y="250" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="e1SSKYQQAym1hsjjxCr9-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=330;exitDy=57;exitPerimeter=0;" edge="1" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="e1SSKYQQAym1hsjjxCr9-5">
+        <mxCell id="e1SSKYQQAym1hsjjxCr9-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=330;exitDy=57;exitPerimeter=0;" parent="1" source="Q_QUAt-K6iGTTHn7CNDI-34" target="e1SSKYQQAym1hsjjxCr9-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="370" as="sourcePoint" />
             <mxPoint x="620" y="320" as="targetPoint" />
