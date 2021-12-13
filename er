@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T17:10:09.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="t629Ja2HMl-RnI1BLJBo" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T17:13:35.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="h92ea8kjMlUjhmryA7I7" version="15.7.3" type="github">
   <diagram id="VJPm_gGAD0FSJgM3Mcoq" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y20dtHCzj0wTPO6XOQkt-14" value="&lt;span&gt;มีสินค้า&lt;/span&gt;&lt;br&gt;&lt;span&gt;เปรียบเทียบ&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y20dtHCzj0wTPO6XOQkt-14" value="&lt;span&gt;สินค้า&lt;/span&gt;&lt;br&gt;&lt;span&gt;เปรียบเทียบ&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y20dtHCzj0wTPO6XOQkt-15" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="258EJWTVvm2eC6yTAwLR-2" target="Y20dtHCzj0wTPO6XOQkt-14">
