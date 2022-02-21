@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T17:17:11.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="onAsTc3kAaXq0p1LQeCf" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T20:52:05.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7-7jiN7bGbSJYuOqUgJJ" version="16.6.2" type="github">
   <diagram id="LbjBBBfQUnYK22RilF3Y" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="134" y="230" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-4" value="คะแนนรีวิวสินค้า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="320" width="176" height="60" as="geometry" />
+          <mxGeometry x="126" y="310" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="AUCMovIemkdwX3JIKb7c-1" target="AUCMovIemkdwX3JIKb7c-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-9" value="จำนวนรีวิว" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="400" width="170" height="70" as="geometry" />
+          <mxGeometry x="190" y="390" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.765;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AUCMovIemkdwX3JIKb7c-9" target="AUCMovIemkdwX3JIKb7c-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-11" value="URL ร้านที่ขายสินค้า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="260" width="150" height="60" as="geometry" />
+          <mxGeometry x="600" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-12" value="แพลทฟอร์มที่ขาย" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AUCMovIemkdwX3JIKb7c-11" target="AUCMovIemkdwX3JIKb7c-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-18" value="URL รูปภาพสินค้า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="360" width="150" height="60" as="geometry" />
+          <mxGeometry x="570" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AUCMovIemkdwX3JIKb7c-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.842;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.24;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AUCMovIemkdwX3JIKb7c-18" target="AUCMovIemkdwX3JIKb7c-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,10 +82,19 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6XkMww7P7NnD5g97wZnL-1" value="ประเภทสินค้า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="170" height="70" as="geometry" />
+        <mxCell id="6XkMww7P7NnD5g97wZnL-1" value="ประเภทสินค้า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="410" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6XkMww7P7NnD5g97wZnL-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.376;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6XkMww7P7NnD5g97wZnL-1" target="AUCMovIemkdwX3JIKb7c-1">
+        <mxCell id="6XkMww7P7NnD5g97wZnL-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.692;entryY=1;entryDx=0;entryDy=0;exitX=0.376;exitY=0.043;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="6XkMww7P7NnD5g97wZnL-1" target="AUCMovIemkdwX3JIKb7c-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ieEtz25Y1tRn8vxd1uks-1" value="ชื่อร้านค้า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ieEtz25Y1tRn8vxd1uks-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ieEtz25Y1tRn8vxd1uks-1" target="AUCMovIemkdwX3JIKb7c-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />
