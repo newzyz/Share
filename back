@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T17:36:30.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fvvc0FQ25JAejTRdbrVz" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T13:02:01.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="CsArzAX4DlOEbp8s1-ro" version="17.2.4" type="github">
   <diagram id="adHWQso_pKuK8nIbQraR" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,8 +196,8 @@
             <mxPoint x="760" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GHwjvw41nYaObl2K1KXo-51" value="แสดงรายการสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="760" y="300" width="140" height="40" as="geometry" />
+        <mxCell id="GHwjvw41nYaObl2K1KXo-51" value="ดูรายการเปรียบเทียบราคาสินค้า" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="760" y="300" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GHwjvw41nYaObl2K1KXo-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
